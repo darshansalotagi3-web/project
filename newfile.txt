@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 c=a add b
+=======
+c=a subs b
+>>>>>>> b6
